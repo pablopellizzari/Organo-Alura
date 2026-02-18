@@ -26,7 +26,14 @@
     height: 40px;
 }
 
-.footer .social-media-list img {
-    width: 20px;
-    height: 20px;
+
+
+.social-media-list {
+    list-style: none;
+    display: flex;
+    padding: 0px;
+}
+
+.social-media-list li {
+    margin-right: 16px;
 }
