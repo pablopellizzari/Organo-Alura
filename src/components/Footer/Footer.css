@@ -1,0 +1,32 @@
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.page-footer {
+    background: #6278F7;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 32px;
+}
+
+.footer .copyright {
+    font-size: 14px;
+}
+
+
+.footer .logo img {
+    width: 100px;
+    height: 40px;
+}
+
+.footer .social-media-list img {
+    width: 20px;
+    height: 20px;
+}
